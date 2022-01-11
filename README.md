@@ -1,14 +1,14 @@
 # The Random Day Generator
 
-The Random Day Generator creates a random paragraph concisting of a weather report, a menu selection, and a quick reminder.
+The Random Day Generator creates a random paragraph consisting of a weather report, a menu selection, and a quick reminder.
 
-## installation
+## Installation
 
 There are currently no installation instructions.
 
 ## Usage
 
-This is a simple program ment to be run in a CLI
+This is a simple program meant to be run in a CLI
 
 ## Contributing
 
